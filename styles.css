@@ -1,0 +1,22 @@
+
+#total{
+  color: black;
+}
+  .myButton{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 2px 2px;
+    cursor: pointer;
+  }
+  body{
+    background-color: #C5E2FF;
+    font-family: sans-serif;
+    font-size: 2em;
+    max-width: 50%;
+  }
